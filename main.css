@@ -1,0 +1,17 @@
+main {
+  background-color: bisque;
+  border: 3px solid black;
+  padding: 30px;
+}
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/fc/a0/b3/fca0b3d76420857763f2d0c1a08fd45b.jpg")
+}
+h1, h2 {
+  font-family: sans-serif;
+}
+address{
+  line-height: 10px;
+}
+#dates {
+  margin-left: 40px;
+}
